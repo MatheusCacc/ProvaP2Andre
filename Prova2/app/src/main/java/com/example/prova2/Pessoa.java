@@ -1,3 +1,5 @@
+package com.example.prova2;
+
 public class Pessoa {
 
     private String email;

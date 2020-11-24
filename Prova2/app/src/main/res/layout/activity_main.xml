@@ -22,11 +22,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
+        app:layout_constraintTop_toBottomOf="@+id/IdSenha"
         app:layout_constraintVertical_bias="0.539" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/idEmail"
         android:layout_width="255dp"
         android:layout_height="49dp"
         android:drawableStart="@drawable/ic_baseline_email_24"
@@ -47,7 +47,7 @@
         android:drawableLeft="@drawable/ic_baseline_email_24" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/IdSenha"
         android:layout_width="255dp"
         android:layout_height="45dp"
         android:drawableStart="@drawable/ic_baseline"
